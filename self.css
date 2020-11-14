@@ -20,6 +20,10 @@ body {
   white-space: nowrap;
 }
 
+.stories p {
+  font-size: 13px;
+}
+
 a {
   color: darkblue;
   font-size: 20px;
@@ -77,4 +81,11 @@ a {
 
 .fas {
   color: red;
+}
+
+.comments {
+  font-size: 17px;
+}
+.footer {
+  font-size: 12px;
 }
